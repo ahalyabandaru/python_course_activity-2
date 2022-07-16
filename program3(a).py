@@ -7,5 +7,5 @@ def remove_duplicates(str):
         st = st+i
     return st
  
-str = "Ahalya"
+str = "Ahalya Bandaru"
 print(remove_duplicates(list(str)))
